@@ -1,6 +1,6 @@
 # test_020 Eakkawee 
 
-<img src="assets/Screenshot.png" style="width: 300px; height: 550px; max-width: 100%;">
+<img src="assets/Screenshot.png" style="width: 300px; height: 600px; max-width: 100%;">
 
 ## Getting Started
 
